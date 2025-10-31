@@ -1,6 +1,7 @@
 # Recipes
 
-Food recipes app
+Food Recipes App
 
-
+## TODO:
+- Everything, lol!
 
